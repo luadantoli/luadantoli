@@ -8,4 +8,4 @@ Sou estudante de TI, com foco em Cybersecurity e Ciência de Dados, ainda compre
 
 ## ⭐ GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadantoli&layout=compact&langs_count=6&theme=radical"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luadantoli&layout=compact&langs_count=6&theme=radical"/>
