@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim
 
-Sou estudante de TI, com foco em Cybersecurity e Ciência de Dados, ainda compreendendo qual ramo seguir, mas apaixonada por evoluir.
+Sou estudante de TI, com foco em Cybersecurity e Ciência da Computação, ainda compreendendo qual ramo seguir, mas apaixonada por evoluir.
 
 ## ⭐ GitHub Stats
 
